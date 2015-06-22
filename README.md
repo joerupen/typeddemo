@@ -24,6 +24,9 @@ The following files are inteded to be checked with `check-ns`
 * maps.clj. Probably the most useful for real life use.
 * enums.clj. Some ideas how we could define enums in core.typed
 
+## Resources
+
+For additional resources beside the official documentation, I found the following two very useful.
 
 http://nathanic.org/posts/2013/typed-clojure-tour/
 
