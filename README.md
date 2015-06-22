@@ -14,14 +14,15 @@ The following namespaces are intended for REPL usage.
 
 * repl.clj A step by-step REPL session through core.typed.
 * errors.clj. A walkthrough in reading error messages with examples.
+* functions.clj. Examples how to define function signatures.
+* vectors.clj
+* sequences.clj. Examples for how we can use the `core.typed` sequences
+* more_types.clj. various other ideas from things you can do with `core.typed`.
 
 The following files are inteded to be checked with `check-ns`
 
-* functions.clj. Examples how to define function signatures.
-* sequences.clj. Examples for how we can use the `core.typed` sequences
 * maps.clj. Probably the most useful for real life use.
 * enums.clj. Some ideas how we could define enums in core.typed
-* more_typed.clj. various other ideas from things you can do with `core.typed`.
 
 
 http://nathanic.org/posts/2013/typed-clojure-tour/
